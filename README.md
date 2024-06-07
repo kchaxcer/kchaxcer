@@ -21,8 +21,8 @@
   pointer-events: none;
   z-index: 9999;
   position: fixed;
-  top: calc(100vh - 65px);
-  left: calc(100vw - 219px);
+  top: calc(50vh - 65px);
+  left: calc(50vw - 219px);
   height: 130px;
   object-fit: contain;
   background-size: contain;
