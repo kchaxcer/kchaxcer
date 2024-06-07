@@ -27,6 +27,6 @@
   object-fit: contain;
   background-size: contain;
   width: 50px;
-  opacity: 0.5;
+  opacity: 1;
   background:url('https://raw.githubusercontent.com/kchaxcer/kchaxcer/main/windows_xp_bliss-wide.jpg?raw=true');
 ]{x0000}$}
