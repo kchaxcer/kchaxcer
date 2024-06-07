@@ -19,7 +19,7 @@
   goombafont;
   color:red;
   pointer-events: none;
-  z-index: 9999;
+  z-index: 99999999;
   position: fixed;
   top: calc(50vh - 65px);
   left: calc(50vw - 219px);
